@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ISpyWear Sensor data </string>
+    <string name="action_settings">Settings</string>
+
+    <string name="steps">Using this app: \n
+        1. Pair a band with the phone\n
+        2. Press the Start button\n
+        3. Data from both the accelerometer sensor and gyroscope sensor should be displayed.</string>
+    <string name="start">Start</string>
+</resources>
